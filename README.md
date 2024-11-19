@@ -37,6 +37,7 @@ Bu projede foreach döngüsünü daha detaylı kullanarak öğrencilerin sınav 
 Bu proje ile geriye değer döndüren parametreler ile çalışmayı öğrendim. Kullanıcının girdiği değeri döndüren fonksiyonlar oluşturdum.
 
 📍<b>PROJE 9:DATABASE PROJE</b>
+
 Bu proje ile database tarafına giriş yaparak SQL ile bağlantı kurmak ve kurulan bağlantının hangi yolları kullandığını öğrendim.
 
 📍<b>PROJE 10:DATABASE CRUD</b>
