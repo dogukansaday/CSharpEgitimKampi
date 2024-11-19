@@ -35,3 +35,10 @@ Bu projede foreach döngüsünü daha detaylı kullanarak öğrencilerin sınav 
 📍<b>PROJE 8:GERİYE DEĞER DÖNDÜREN PARAMETRELER</b>
 
 Bu proje ile geriye değer döndüren parametreler ile çalışmayı öğrendim. Kullanıcının girdiği değeri döndüren fonksiyonlar oluşturdum.
+
+📍<b>PROJE 9:DATABASE PROJE</b>
+Bu proje ile database tarafına giriş yaparak SQL ile bağlantı kurmak ve kurulan bağlantının hangi yolları kullandığını öğrendim.
+
+📍<b>PROJE 10:DATABASE CRUD</b>
+
+Bu proje ile database crud işlemlerinden olan select, insert, update ve delete sorgularını kullanarak ürün ağacı ile işlem yaptım ve daha önceden bildiğim SQL kodları ile C# bilgilerimi harmanlayarak küçük bir uygulama geliştirdim.
